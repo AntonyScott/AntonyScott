@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonyScott
 - 👀 I’m interested in Games Development
-- 🌱 I’m currently learning Games Computing at the University of Lincoln, 2nd year
+- 🌱 I’m currently learning Games Computing at the University of Lincoln, 3rd year
 - 💞️ I’m looking to collaborate on a Unity Games Project
 - 📫 How to reach me antonyscott1@hotmail.co.uk
 
